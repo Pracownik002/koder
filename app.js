@@ -1,3 +1,3 @@
 document.getElementById("button").addEventListener("click",(ev)=>{
-    window.open('https://onet.pl','_blank');
+    window.open('https://www.youtube.com/@JUL-JAN-EK','_blank');
 })
